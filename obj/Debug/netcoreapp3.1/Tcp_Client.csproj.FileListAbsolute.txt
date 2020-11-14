@@ -1,0 +1,13 @@
+C:\Users\marfx\source\repos\Tcp_Client\bin\Debug\netcoreapp3.1\Tcp_Client.exe
+C:\Users\marfx\source\repos\Tcp_Client\bin\Debug\netcoreapp3.1\Tcp_Client.deps.json
+C:\Users\marfx\source\repos\Tcp_Client\bin\Debug\netcoreapp3.1\Tcp_Client.runtimeconfig.json
+C:\Users\marfx\source\repos\Tcp_Client\bin\Debug\netcoreapp3.1\Tcp_Client.runtimeconfig.dev.json
+C:\Users\marfx\source\repos\Tcp_Client\bin\Debug\netcoreapp3.1\Tcp_Client.dll
+C:\Users\marfx\source\repos\Tcp_Client\bin\Debug\netcoreapp3.1\Tcp_Client.pdb
+C:\Users\marfx\source\repos\Tcp_Client\obj\Debug\netcoreapp3.1\Tcp_Client.AssemblyInfoInputs.cache
+C:\Users\marfx\source\repos\Tcp_Client\obj\Debug\netcoreapp3.1\Tcp_Client.AssemblyInfo.cs
+C:\Users\marfx\source\repos\Tcp_Client\obj\Debug\netcoreapp3.1\Tcp_Client.csproj.CoreCompileInputs.cache
+C:\Users\marfx\source\repos\Tcp_Client\obj\Debug\netcoreapp3.1\Tcp_Client.dll
+C:\Users\marfx\source\repos\Tcp_Client\obj\Debug\netcoreapp3.1\Tcp_Client.pdb
+C:\Users\marfx\source\repos\Tcp_Client\obj\Debug\netcoreapp3.1\Tcp_Client.genruntimeconfig.cache
+C:\Users\marfx\source\repos\Tcp_Client\obj\Debug\netcoreapp3.1\Tcp_Client.csprojAssemblyReference.cache
